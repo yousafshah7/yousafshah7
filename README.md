@@ -28,13 +28,6 @@ Multi-class NLP sentiment classifier using TF-IDF + Logistic Regression — 73% 
 **[🧭 Heuristic Pathfinding Agent](https://github.com/yousafshah7/Heuristic-Pathfinding-Agent)**
 A* and Dijkstra pathfinding algorithms built from scratch, with maze generation, performance metrics, and animated visualizations.
 
-### 📈 GitHub Stats
-![Yousaf's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yousafshah7&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousafshah7&layout=compact&hide_border=true)
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousaf-shah-88439842a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yousafsha7824@gmail.com)
 
 ---
 ⭐ Thanks for stopping by — feel free to explore my repositories!
